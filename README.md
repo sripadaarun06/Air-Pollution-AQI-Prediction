@@ -121,8 +121,10 @@ uvicorn src.api:app --reload
 ### Open in browser:
 - http://127.0.0.1:8000/docs
 
-## API Usage Example
+---
 
+## API Usage Example
+-
 ### Request (POST /predict)
 {
   "PM2.5": 180,
