@@ -14,9 +14,4 @@ This project predicts Air Quality Index (AQI) using machine learning models and 
 - XGBoost
 - FastAPI
 - SHAP
-
-## How to Run
-
-### 1. Install dependencies
-```bash
-pip install -r requirements.txt
+- 
